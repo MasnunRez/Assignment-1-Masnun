@@ -24,7 +24,7 @@
     background-color: #C6E4D6;
 }
 .color-bg{
-    color: #F1F1F3;
+    background-color: #F1F1F3;
 }
 
 nav{
@@ -115,15 +115,70 @@ h1{
 }
 .card-description{
     color: #0e0e0eb3;
+    padding-bottom: 24px;
+    line-height: 24px;
+    font-size: 16px;
 }
 .card1{
     background-color: #ffffff;
     border-radius: 16px;
     border: 1px solid #0e0e0e30;
-    padding: 24px;
+    padding: 24px 24px 0px 24px;
     width: 302px;
 }
 
 #section-2{
     margin: 20px 160px 80px 160px;
+}
+
+/* The Vision of Future */
+#section-3{
+    margin: 20px 160px 80px 160px;
+}
+
+.sec3-description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #0e0e0eb3;
+}
+.card-section2{
+    display: flex;
+    gap: 24px;
+}
+.card2{
+    border-radius: 16px;
+    margin-top: 32px;
+    padding: 32px 24px 32px 30px;
+    width: 410px;
+}
+
+.cback-color1{
+    background-color: rgba(84, 143, 245, 0.2) ;
+}
+.cback-color2{
+    background-color:#C6E4D6 ;
+}
+.cback-color3{
+    background-color: #F7EBCF ;
+}
+
+
+
+.btn3{
+    color: #ffffff;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+
+}
+.clr1{
+    background-color: #5490F5;
+}
+.clr2{
+    background-color: #09A15C;
+    margin-top: 24px;
+}
+.clr3{
+    background-color: #FFC239;
 }
