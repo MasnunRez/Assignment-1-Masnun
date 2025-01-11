@@ -92,7 +92,7 @@ h1{
     padding: 80px 60px;
 }
 
-/* Pillars of "Bangladesh 2.0" */
+/*Section-2 Pillars of "Bangladesh 2.0" */
 
 .sec2-title{
     font-size: 40px;
@@ -109,6 +109,7 @@ h1{
     margin-bottom: 25px;
 }
 .card-title{
+    color: #0e0e0ed0;
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 12px;
@@ -131,7 +132,7 @@ h1{
     margin: 20px 160px 80px 160px;
 }
 
-/* The Vision of Future */
+/*Section-3 The Vision of Future */
 #section-3{
     margin: 20px 160px 80px 160px;
 }
@@ -182,3 +183,37 @@ h1{
 .clr3{
     background-color: #FFC239;
 }
+/* Section-4 */
+#section-4{
+    margin: 20px 160px 80px 160px;
+
+}
+.sec4{
+    background-color: #ffffff;
+    border-radius: 16px;
+    border: 1px solid #0e0e0e30;
+    padding: 24px 24px 48px 24px;
+}
+.sec4x{
+    background-image: url(assets/quote-bg.png);
+    background-repeat:no-repeat;
+    
+}
+.sec4-description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #0e0e0eb3;
+    padding-top: 24px;
+}
+.dmy-name{
+    color: #0e0e0ed0;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 12px 0px;
+}
+.designation1{
+    color: #0e0e0e90;
+}
+
+
