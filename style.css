@@ -58,7 +58,6 @@ h5{
     letter-spacing: 0px;
 }
 h1{
-    font-family: ;
     font-size: 56px;
     font-weight: 700;
     margin-bottom: 24px;
@@ -89,8 +88,42 @@ h1{
     justify-content: space-between;
     align-items: center;
     border-radius: 24px;
-    margin: 20px 160px 0px 160px;
+    margin: 20px 160px 80px 160px;
     padding: 80px 60px;
+}
 
+/* Pillars of "Bangladesh 2.0" */
 
+.sec2-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.card-section{
+    display: flex;
+    gap: 24px;
+}
+
+.card-icon{
+    width: 64px;
+    margin-bottom: 25px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.card-description{
+    color: #0e0e0eb3;
+}
+.card1{
+    background-color: #ffffff;
+    border-radius: 16px;
+    border: 1px solid #0e0e0e30;
+    padding: 24px;
+    width: 302px;
+}
+
+#section-2{
+    margin: 20px 160px 80px 160px;
 }
