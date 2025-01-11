@@ -1,0 +1,26 @@
+/* Font Family */
+.open-sans-mianfont> {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+/* Universal styles */
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/* Shared Styles */
+.main-green{
+    color: #006A50;
+}
+.light-green{
+    color: #C6E4D6;
+}
+.color-bg{
+    color: #F1F1F3;
+}
+
